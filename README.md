@@ -4,3 +4,5 @@ The goal of this notebook is the use the Five C's of credit framework to select 
 Club Dataset to predict loan default probability.
 
 Using the predicted loan default probability, the notebook will the generate expected loss on loans within the portfolio.
+
+Please the Kaggle Lending Club website for further details: https://www.kaggle.com/wendykan/lending-club-loan-data
